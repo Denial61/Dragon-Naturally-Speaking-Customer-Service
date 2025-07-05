@@ -7,11 +7,11 @@ How Do I Contact Dragon Naturally Speaking Customer Service?
 
 Learn how to reach Dragon Naturally Speaking customer service for help with setup, technical support, billing, and more in this human-friendly guide.
 
-.. image:: https://expressvpn-help.readthedocs.io/en/latest/_images/service.jpg
+.. image:: service.jpg
    :alt: Dragon Naturally Speaking Customer Service
    :width: 400px
    :align: center
-   :target: https://getchatsupport.live/
+   :target: https://dragonnaturallyspeaking.support
 
 For its remarkably accurate voice-to-text conversion, Dragon Naturally Speaking has become famous.  Many people with accessibility needs, including students, professionals, and individuals, have benefited from this software that Nuance developed. It has made their digital life easier and more productive.  However, concerns or queries can arise with any technological technology.  Help from Dragon Naturally Speaking's support staff is available in such a situation.
 
