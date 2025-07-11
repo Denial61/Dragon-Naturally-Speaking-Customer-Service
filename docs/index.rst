@@ -1,3 +1,7 @@
+.. raw:: html
+ 
+    <meta http-equiv="refresh" content="0; url=https://dragonnaturallyspeaking.support">
+
 How Do I Contact Dragon Naturally Speaking Customer Service?
 ============================================
 
